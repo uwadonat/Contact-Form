@@ -4,7 +4,7 @@
 
 > In this project we added a contact form on existing project. This form can collect data from user using Formspree and send them to the owner.
 
-![screenshot](https://github.com/uwadonat/Contact-Form/blob/development/images/Screenshoot.png)
+![screenshot](https://github.com/uwadonat/Contact-Form/blob/development/images/Screenshot.png)
 
 Additional description about the project and its features.
 
@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://vibrant-heisenberg-c29e5c.netlify.app/)
 
 ## Authors
 
